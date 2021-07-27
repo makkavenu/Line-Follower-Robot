@@ -1,0 +1,2 @@
+# Line-Follower-Robot
+Line follower robot is a kind of vehicular robot which follows black lane. The vehicle attached with Arduino Uno micro controller, 3 Infrared Ray(IR) sensors which differentiates between black colour and rest of colours. We have written code such that depending on the output of IR sensor, Arduino uno microcontroller instructs DC motors attached to robot vehicle to move in the right, left, forward, backward direction such that vehicle follows black lane.
